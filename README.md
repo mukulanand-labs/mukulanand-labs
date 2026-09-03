@@ -1,8 +1,16 @@
 <!-- ===================== ANIMATED DEVOPS BANNER ===================== -->
-
+<!--
 <p align="center">
   <img src="./assets/mukul-devops-flow.gif"
        alt="Mukul Anand - DevOps Flow"
+       width="100%" />
+</p>
+
+-->
+
+<p align="center">
+  <img src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif"
+       alt="DevOps Cloud Native"
        width="100%" />
 </p>
 
