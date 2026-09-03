@@ -21,7 +21,7 @@ DevOps & Cloud Engineer | Automation | CI/CD | Cloud | SRE
 ## 👨‍💻 About Me
 
 I am a DevOps & Cloud Engineer with a strong background in software development, production operations, service delivery, and IT service management. 
-I focus on designing and automating reliable, scalable, and secure infrastructure and delivery processes, improving system availability, and enabling 
+I focus on designing and automating **reliable, scalable, and secure infrastructure** and delivery processes, improving system availability, and enabling 
 efficient software delivery across the application lifecycle.
 
 - 💻 Software Development background
@@ -98,11 +98,7 @@ efficient software delivery across the application lifecycle.
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash" alt="Linux and Bash" />
 </p>
 
-
-
 ---
-
-
 
 ## 🔄 My DevOps / SRE Journey
 
@@ -140,9 +136,25 @@ Observability & Monitoring
 Platform Engineering
 ```
 
-### My learning philosophy
+### 🧠 My Learning Philosophy
 
-**Learn → Build → Break → Troubleshoot → Understand → Automate → Document**
+<p align="center">
+  <b>💡 Learn</b>
+  &nbsp;→&nbsp;
+  <b>🛠️ Build</b>
+  &nbsp;→&nbsp;
+  <b>💥 Break</b>
+  &nbsp;→&nbsp;
+  <b>🧩 Fix</b>
+  &nbsp;→&nbsp;
+  <b>⚙️ Automate</b>
+  &nbsp;→&nbsp;
+  <b>📝 Document</b>
+</p>
+
+<p align="center">
+  <i>“Don't just learn how it works — build it, break it, fix it, automate it, and share what you learned.”</i>
+</p>
 
 ---
 
@@ -190,35 +202,6 @@ I plan to write about:
 > **Learning something is good. Building it, breaking it, fixing it and documenting it is better.**
 
 ---
-
-## 📈 From Service Delivery to SRE
-
-My previous experience gives me a strong operational foundation for DevOps and SRE.
-
-```text
-Incident Management
-        +
-Problem Management
-        +
-Change Management
-        +
-SLA / Service Management
-        +
-Production Operations
-        +
-Software Engineering
-        +
-Automation
-        +
-Cloud & Infrastructure
-        ↓
-      DevOps
-        ↓
-       SRE
-```
-
----
-
 
 
 ## 📊 GitHub Activity
@@ -277,6 +260,18 @@ As I build projects, I'll pin the strongest ones here and on my profile.
 
 <h3 align="center">
 
-🚀 **Learn • Build • Break • Fix • Automate • Repeat**
+<p align="center">
+  <b>💡 Learn</b>
+  &nbsp;→&nbsp;
+  <b>🛠️ Build</b>
+  &nbsp;→&nbsp;
+  <b>💥 Break</b>
+  &nbsp;→&nbsp;
+  <b>🧩 Fix</b>
+  &nbsp;→&nbsp;
+  <b>⚙️ Automate</b>
+  &nbsp;→&nbsp;
+  <b>📝 Document</b>
+</p>
 
 </h3>
