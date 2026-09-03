@@ -1,0 +1,320 @@
+<!-- ===================== ANIMATED DEVOPS BANNER ===================== -->
+
+<p align="center">
+  <img src="./assets/mukul-devops-flow.gif"
+       alt="Mukul Anand - DevOps Flow"
+       width="100%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Mukul Anand from India 🇮🇳</h1>
+
+<h3 align="center">
+Software Professional | Service Delivery Lead | DevOps & SRE Enthusiast
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mukulanand-labs&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I am a software professional with experience across **software development,
+application support, service delivery, production operations and IT service management**.
+
+I started my career as a Software Developer working with **C#, JavaScript and
+Microsoft SQL Server**, and later moved into Service Delivery leadership.
+
+Today, I am expanding my engineering capabilities and building a hands-on
+journey toward **DevOps, SRE, Cloud Engineering and Platform Engineering**.
+
+- 💻 Software Development background
+- 🚀 Service Delivery & Production Operations experience
+- 🔧 Hands-on learning: Linux, Git, GitHub, Docker, Python and CI/CD
+- ☁️ Building Cloud & AWS knowledge
+- ☸️ Exploring Kubernetes and container orchestration
+- 📊 Interested in SRE, observability, reliability and automation
+- 📋 Practical experience with Incident, Problem and Change Management
+- 🎯 Career direction: **Service Delivery → DevOps → SRE → Platform Engineering**
+
+---
+
+## 🏅 Certifications
+
+<p align="left">
+  <img src="https://img.shields.io/badge/ITIL%204-Foundation-blue?style=for-the-badge&logo=itil&logoColor=white" alt="ITIL 4 Foundation" />
+  <img src="https://img.shields.io/badge/Certified%20ScrumMaster-CSM-orange?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Certified ScrumMaster" />
+</p>
+
+---
+
+## 🚀 What I Do
+
+- 🎯 Drive application/service delivery and production operations
+- 🚨 Coordinate critical incidents and restoration activities
+- 🔍 Perform Root Cause Analysis and drive corrective actions
+- 📋 Work with Incident, Problem and Change Management processes
+- 🤝 Coordinate across engineering, support and stakeholder teams
+- 📈 Focus on SLA adherence, reliability and continuous improvement
+- 🐧 Build Linux administration and troubleshooting skills
+- 🔀 Practice Git/GitHub workflows, branching, merging and SSH
+- 🐳 Build containerization skills with Docker
+- ⚙️ Learn CI/CD and deployment automation
+- ☁️ Build practical Cloud/AWS knowledge
+- ☸️ Progress toward Kubernetes and SRE
+
+---
+
+## 🧰 DevOps Toolchain
+
+### ☁️ Cloud & Infrastructure
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,ansible&theme=dark&perline=4" alt="AWS Azure Terraform Ansible" />
+</p>
+
+### 🐳 Containers & Orchestration
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark&perline=4" alt="Docker Kubernetes" />
+</p>
+
+### 🔁 CI/CD & Automation
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=githubactions,python,bash&theme=dark&perline=4" alt="GitHub Actions Python Bash" />
+</p>
+
+### 📊 Observability & Monitoring
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark&perline=4" alt="Prometheus Grafana" />
+</p>
+
+### 🔀 Version Control & Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,cs,js,python&theme=dark&perline=5" alt="Git GitHub CSharp JavaScript Python" />
+</p>
+
+### 🖥️ Operating Systems
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash&theme=dark&perline=4" alt="Linux Ubuntu Bash" />
+</p>
+
+> Some technologies above are part of my **current learning roadmap**. I prefer to show technologies as I gain hands-on experience rather than simply listing everything I have encountered.
+
+---
+
+## 🔄 My DevOps / SRE Journey
+
+```text
+Software Development
+        │
+        ▼
+Service Delivery & Production Operations
+        │
+        ▼
+      Linux
+        │
+        ▼
+   Git & GitHub
+        │
+        ▼
+     Docker
+        │
+        ▼
+     CI / CD
+        │
+        ▼
+      Cloud
+        │
+        ▼
+   Kubernetes
+        │
+        ▼
+Observability & Monitoring
+        │
+        ▼
+       SRE
+        │
+        ▼
+Platform Engineering
+```
+
+### My learning philosophy
+
+**Learn → Build → Break → Troubleshoot → Understand → Automate → Document**
+
+---
+
+## 📚 Current Learning Focus
+
+| Area | Current Focus |
+|---|---|
+| 🐧 Linux | Commands, permissions, processes, networking, Bash |
+| 🔀 Git & GitHub | Branching, merging, conflicts, SSH, workflows |
+| 🐳 Docker | Images, containers, Dockerfiles, volumes, networks |
+| 🐍 Python | Automation and scripting |
+| ⚙️ CI/CD | GitHub Actions and deployment pipelines |
+| ☁️ AWS | Cloud infrastructure, IAM, compute, storage, networking |
+| ☸️ Kubernetes | Architecture, workloads, services, networking, storage |
+| 📊 SRE | Reliability, monitoring, observability, SLI/SLO |
+| 🏗️ IaC | Terraform and infrastructure automation |
+
+---
+
+## 🔨 Hands-On Projects
+
+🚧 **This section will grow as I build and publish projects.**
+
+### 🐧 Linux Labs
+Practical Linux administration and troubleshooting exercises.
+
+### 🔀 Git & GitHub Labs
+Hands-on work with repositories, branches, merges, conflicts, SSH and remote workflows.
+
+### 🐳 Docker Labs
+Containerization exercises covering images, containers, Dockerfiles, volumes and networking.
+
+### ⚙️ CI/CD Labs
+Building automated pipelines with GitHub Actions and Docker.
+
+### ☁️ Cloud Labs
+Practical AWS infrastructure and automation experiments.
+
+### ☸️ Kubernetes Labs
+Progressively building Kubernetes deployments, services and troubleshooting skills.
+
+---
+
+## ✍️ Technical Writing
+
+I believe documenting what I learn is an important part of becoming a better engineer.
+
+I plan to write about:
+
+- Linux troubleshooting
+- Git & GitHub
+- Docker
+- CI/CD
+- Python automation
+- Cloud
+- Kubernetes
+- SRE
+- Production troubleshooting
+- Lessons learned while transitioning toward DevOps
+
+> **Learning something is good. Building it, breaking it, fixing it and documenting it is better.**
+
+---
+
+## 📈 From Service Delivery to SRE
+
+My previous experience gives me a strong operational foundation for DevOps and SRE.
+
+```text
+Incident Management
+        +
+Problem Management
+        +
+Change Management
+        +
+SLA / Service Management
+        +
+Production Operations
+        +
+Software Engineering
+        +
+Automation
+        +
+Cloud & Infrastructure
+        ↓
+      DevOps
+        ↓
+       SRE
+```
+
+---
+
+## 🎯 Career Direction
+
+```text
+Software Developer
+       ↓
+Service Delivery Lead
+       ↓
+DevOps Engineer
+       ↓
+SRE Engineer
+       ↓
+Senior DevOps / SRE Engineer
+       ↓
+Platform Engineer
+       ↓
+Platform Architect
+```
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mukulanand-labs&show_icons=true&hide_border=true&count_private=true" alt="Mukul's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukulanand-labs&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mukulanand-labs&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+As I build projects, I'll pin the strongest ones here and on my profile.
+
+- 🐧 Linux Administration Labs
+- 🔀 Git & GitHub Labs
+- 🐳 Docker Projects
+- ⚙️ CI/CD Pipeline Projects
+- 🐍 Python Automation
+- ☁️ AWS Infrastructure
+- ☸️ Kubernetes Projects
+- 📊 Monitoring & Observability
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://github.com/mukulanand-labs">
+    <img src="https://img.shields.io/badge/GitHub-mukulanand--labs-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://medium.com/">
+    <img src="https://img.shields.io/badge/Medium-Read%20My%20Articles-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+> I enjoy solving real production problems — and I'm now learning how to
+> **automate those solutions instead of solving the same problem twice.** 😄
+
+---
+
+<h3 align="center">
+
+🚀 **Learn • Build • Break • Fix • Automate • Repeat**
+
+</h3>
