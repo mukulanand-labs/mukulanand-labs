@@ -9,10 +9,10 @@
 <h1 align="center">Hi 👋, I'm Mukul Anand from India 🇮🇳</h1>
 
 <h3 align="center">
-Software Professional | Service Delivery Lead | DevOps & SRE Enthusiast
+DevOps & Cloud Engineer | Automation | CI/CD | Cloud | SRE
 </h3>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=mukulanand-labs&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
@@ -20,14 +20,9 @@ Software Professional | Service Delivery Lead | DevOps & SRE Enthusiast
 
 ## 👨‍💻 About Me
 
-I am a software professional with experience across **software development,
-application support, service delivery, production operations and IT service management**.
-
-I started my career as a Software Developer working with **C#, JavaScript and
-Microsoft SQL Server**, and later moved into Service Delivery leadership.
-
-Today, I am expanding my engineering capabilities and building a hands-on
-journey toward **DevOps, SRE, Cloud Engineering and Platform Engineering**.
+I am a DevOps & Cloud Engineer with a strong background in software development, production operations, service delivery, and IT service management. 
+I focus on designing and automating reliable, scalable, and secure infrastructure and delivery processes, improving system availability, and enabling 
+efficient software delivery across the application lifecycle.
 
 - 💻 Software Development background
 - 🚀 Service Delivery & Production Operations experience
@@ -104,67 +99,15 @@ journey toward **DevOps, SRE, Cloud Engineering and Platform Engineering**.
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash" alt="Linux and Bash" />
 </p>
 
-> Some technologies above are part of my **current learning roadmap**. I prefer
-> to show technologies as I gain hands-on experience rather than simply listing
-> everything I have encountered.
-
 ---
 
 ## 🔄 My DevOps / SRE Journey
 
-```text
-Software Development
-        │
-        ▼
-Service Delivery & Production Operations
-        │
-        ▼
-      Linux
-        │
-        ▼
-   Git & GitHub
-        │
-        ▼
-     Docker
-        │
-        ▼
-     CI / CD
-        │
-        ▼
-      Cloud
-        │
-        ▼
-   Kubernetes
-        │
-        ▼
-Observability & Monitoring
-        │
-        ▼
-       SRE
-        │
-        ▼
-Platform Engineering
 ```
 
 ### My learning philosophy
 
 **Learn → Build → Break → Troubleshoot → Understand → Automate → Document**
-
----
-
-## 📚 Current Learning Focus
-
-| Area | Current Focus |
-|---|---|
-| 🐧 Linux | Commands, permissions, processes, networking, Bash |
-| 🔀 Git & GitHub | Branching, merging, conflicts, SSH, workflows |
-| 🐳 Docker | Images, containers, Dockerfiles, volumes, networks |
-| 🐍 Python | Automation and scripting |
-| ⚙️ CI/CD | GitHub Actions and deployment pipelines |
-| ☁️ AWS | Cloud infrastructure, IAM, compute, storage, networking |
-| ☸️ Kubernetes | Architecture, workloads, services, networking, storage |
-| 📊 SRE | Reliability, monitoring, observability, SLI/SLO |
-| 🏗️ IaC | Terraform and infrastructure automation |
 
 ---
 
