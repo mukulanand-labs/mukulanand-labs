@@ -26,12 +26,11 @@ efficient software delivery across the application lifecycle.
 
 - 💻 Software Development background
 - 🚀 Service Delivery & Production Operations experience
-- 🔧 Hands-on learning: Linux, Git, GitHub, Docker, Python and CI/CD
+- 🔧 Hands-on : Linux, Git, GitHub, Docker, Python and CI/CD
 - ☁️ Building Cloud & AWS knowledge
 - ☸️ Exploring Kubernetes and container orchestration
 - 📊 Interested in SRE, observability, reliability and automation
 - 📋 Practical experience with Incident, Problem and Change Management
-- 🎯 Career direction: **Service Delivery → DevOps → SRE → Platform Engineering**
 
 ---
 
@@ -46,18 +45,18 @@ efficient software delivery across the application lifecycle.
 
 ## 🚀 What I Do
 
+- 📈 Focus on SLA adherence, reliability and continuous improvement
+- 🐧 Build Linux administration and troubleshooting skills
+- 🔀 Practice Git/GitHub workflows, branching, merging and SSH
+- 🐳 Build containerization skills with Docker
+- ⚙️ CI/CD and deployment automation
+- ☁️ Build practical Cloud/AWS knowledge
+- ☸️ Progress toward Kubernetes and SRE
 - 🎯 Drive application/service delivery and production operations
 - 🚨 Coordinate critical incidents and restoration activities
 - 🔍 Perform Root Cause Analysis and drive corrective actions
 - 📋 Work with Incident, Problem and Change Management processes
 - 🤝 Coordinate across engineering, support and stakeholder teams
-- 📈 Focus on SLA adherence, reliability and continuous improvement
-- 🐧 Build Linux administration and troubleshooting skills
-- 🔀 Practice Git/GitHub workflows, branching, merging and SSH
-- 🐳 Build containerization skills with Docker
-- ⚙️ Learn CI/CD and deployment automation
-- ☁️ Build practical Cloud/AWS knowledge
-- ☸️ Progress toward Kubernetes and SRE
 
 ---
 
@@ -99,10 +98,46 @@ efficient software delivery across the application lifecycle.
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash" alt="Linux and Bash" />
 </p>
 
+
+
 ---
+
+
 
 ## 🔄 My DevOps / SRE Journey
 
+```text
+Software Development
+        │
+        ▼
+Service Delivery & Production Operations
+        │
+        ▼
+      Linux
+        │
+        ▼
+   Git & GitHub
+        │
+        ▼
+     Docker
+        │
+        ▼
+     CI / CD
+        │
+        ▼
+      Cloud
+        │
+        ▼
+   Kubernetes
+        │
+        ▼
+Observability & Monitoring
+        │
+        ▼
+       SRE
+        │
+        ▼
+Platform Engineering
 ```
 
 ### My learning philosophy
@@ -184,25 +219,7 @@ Cloud & Infrastructure
 
 ---
 
-## 🎯 Career Direction
 
-```text
-Software Developer
-       ↓
-Service Delivery Lead
-       ↓
-DevOps Engineer
-       ↓
-SRE Engineer
-       ↓
-Senior DevOps / SRE Engineer
-       ↓
-Platform Engineer
-       ↓
-Platform Architect
-```
-
----
 
 ## 📊 GitHub Activity
 
@@ -263,4 +280,3 @@ As I build projects, I'll pin the strongest ones here and on my profile.
 🚀 **Learn • Build • Break • Fix • Automate • Repeat**
 
 </h3>
-
