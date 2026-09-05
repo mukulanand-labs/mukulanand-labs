@@ -11,8 +11,7 @@
 -->
 
 <p align="center">
-  <img src="./assets/mukul-devops-flow.gif"
-       alt="Mukul Anand - DevOps Flow"
+  <img src="./assets/mukul-devops-flow.gif" alt="Mukul Anand - DevOps Flow"
        width="100%" />
 </p>
 
@@ -22,6 +21,19 @@
 <h3 align="center">
 DevOps & Cloud Engineer | Automation | CI/CD | Cloud | SRE
 </h3>
+
+<!-- 
+<img align="right" alt="DevOps Automation" width="380" src="./assets/mukul-devops-coding.gif"> 
+-->
+
+
+<p align="right">
+  <img src="./assets/mukul-devops-coding.gif"
+       alt="Mukul Anand - DevOps Flow"
+       width="100%" />
+</p>
+
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mukulanand-labs&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
