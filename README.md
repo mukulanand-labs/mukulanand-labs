@@ -11,7 +11,7 @@
 -->
 
 <p align="center">
-  <img src="./assets/mukul-devops-flow.gif" alt="Mukul Anand - DevOps Flow"
+  <img src="./assets/use2.gif" alt="Mukul Anand - DevOps Flow"
        width="100%" />
 </p>
 
@@ -28,7 +28,7 @@ DevOps & Cloud Engineer | Automation | CI/CD | Cloud | SRE
 
 
 <p align="right">
-  <img src="./assets/mukul-devops-coding.gif"
+  <img src="./assets/use1.gif"
        alt="Mukul Anand - DevOps Flow"
        width="100%" />
 </p>
