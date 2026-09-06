@@ -26,13 +26,14 @@ DevOps & Cloud Engineer | Automation | CI/CD | Cloud | SRE
 <img align="right" alt="DevOps Automation" width="380" src="./assets/mukul-devops-coding.gif"> 
 -->
 
-
+<!--
 <p align="right">
   <img src="./assets/use1.gif"
        alt="Mukul Anand - DevOps Flow"
        width="100%" />
 </p>
 
+-->
 
 
 <p align="left">
@@ -41,11 +42,15 @@ DevOps & Cloud Engineer | Automation | CI/CD | Cloud | SRE
 
 ---
 
+
+
 ## 👨‍💻 About Me
 
 I am a DevOps & Cloud Engineer with a strong background in software development, production operations, service delivery, and IT service management. 
 I focus on designing and automating **reliable, scalable, and secure infrastructure** and delivery processes, improving system availability, and enabling 
 efficient software delivery across the application lifecycle.
+
+<img align="right" alt="DevOps Automation" width="380" src="./assets/use1.gif" >
 
 - 💻 Software Development background
 - 🚀 Service Delivery & Production Operations experience
@@ -54,6 +59,10 @@ efficient software delivery across the application lifecycle.
 - ☸️ Exploring Kubernetes and container orchestration
 - 📊 Interested in SRE, observability, reliability and automation
 - 📋 Practical experience with Incident, Problem and Change Management
+
+
+
+
 
 ---
 
